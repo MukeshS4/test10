@@ -1,3 +1,4 @@
 Hi this is my first git clone test
 now we need to merge the change
 now need to merge feature2
+now we need to merge feature 3 hiii
